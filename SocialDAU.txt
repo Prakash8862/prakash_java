@@ -1,0 +1,18 @@
+class SocialDAU
+{
+	public static void main(String [] args)
+	{
+		int facebook = 10000000;
+		int instagram = 800000000;
+		int snapchat = 505555555;
+		int linkedin = 20044;
+		int whatsapp = 150022222;
+		System.out.println("DAU of facebook"+facebook);
+		System.out.println("DAU of instagram"+instagram);
+		System.out.println("DAU of snapchat"+snapchat);
+		System.out.println("DAU of linkedin"+linkedin);
+		System.out.println("DAU of whatsapp"+whatsapp);
+	}
+}
+		
+		
